@@ -10172,3 +10172,4 @@ https://github.com/franzk
 - [BraveOlivia](https://github.com/BraveOlivia)
 - [Francis C via CLI] (https://github.com/franciscorpuz)
 - [Francis C via Github Desktop] (https://github.com/franciscorpuz)
+- [Francis C via VSCode] (https://github.com/franciscorpuz)
