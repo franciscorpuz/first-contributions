@@ -10171,4 +10171,4 @@ https://github.com/franzk
 - [RenatoAWK](https://github.com/RenatoAwk)
 - [BraveOlivia](https://github.com/BraveOlivia)
 - [Francis C via CLI] (https://github.com/franciscorpuz)
-- [Francis C via Github] (https://github.com/franciscorpuz)
+- [Francis C via Github Desktop] (https://github.com/franciscorpuz)
