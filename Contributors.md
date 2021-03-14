@@ -10170,4 +10170,5 @@ https://github.com/franzk
 - [Leo4zhou](https://github.com/Leo4zhou)
 - [RenatoAWK](https://github.com/RenatoAwk)
 - [BraveOlivia](https://github.com/BraveOlivia)
-- [Francis C] (https://github.com/franciscorpuz)
+- [Francis C via CLI] (https://github.com/franciscorpuz)
+- [Francis C via Github] (https://github.com/franciscorpuz)
